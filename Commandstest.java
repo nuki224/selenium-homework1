@@ -34,4 +34,5 @@ public class CommandsTest {
 
     }
 }
+//closed
 driver.quit();
