@@ -8,7 +8,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f1d54fb8-e84b-46c0-a22e-da472bf1ca07" name="Changes" comment="webformss">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UploadTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebElementsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/forbidden_treasure.jfif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/JSexecutor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/UploadTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/forbidden_treasure.jfif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/UploadTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Commandstest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Commandstest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium-homework" beforeDir="false" afterPath="$PROJECT_DIR$/selenium-homework" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +46,7 @@
     <option name="BRANCH" value="origin/commands/day1" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/selenium-homework" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="GitSEFilterConfiguration">
@@ -83,6 +94,7 @@
     <property name="ChangesTree.GroupingKeys" value="module&#10;repository&#10;directory" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="TestNG" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.TestNG" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -92,20 +104,25 @@
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\selenium-homework\src\main\resources" />
+    </key>
     <key name="CreateTestDialog.RecentsKey">
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.WebFormsTest">
-    <configuration name="WaitTests" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="WaitTests" />
+  <component name="RunManager" selected="Application.UploadTestt">
+    <configuration name="UploadTestt" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="17" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="UploadTest" />
       <module name="selenium-homework" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WebFormsTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="WebFormsTest" />
+    <configuration name="WaitTests" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WaitTests" />
       <module name="selenium-homework" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -137,13 +154,12 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Application.UploadTestt" />
       <item itemvalue="Application.WaitTests" />
-      <item itemvalue="Application.WebFormsTest" />
       <item itemvalue="Maven.WebFormsTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.WebFormsTest" />
         <item itemvalue="Application.WaitTests" />
       </list>
     </recent_temporary>
