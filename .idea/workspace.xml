@@ -7,15 +7,6 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f1d54fb8-e84b-46c0-a22e-da472bf1ca07" name="Changes" comment="webFormss">
-      <change afterPath="$PROJECT_DIR$/src/test/java/SwitchToTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/selenium-homework" beforeDir="false" afterPath="$PROJECT_DIR$/selenium-homework" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/selenium-homework/WaitsTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/WaitTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/WebFormsTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/WaitTests.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/WebFormsTest.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,6 +81,7 @@
     <property name="ChangesTree.GroupingKeys" value="module&#10;repository&#10;directory" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="TestNG" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.TestNG" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -99,27 +91,20 @@
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\selenium-homework\src\main\resources" />
+    </key>
     <key name="CreateTestDialog.RecentsKey">
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SwitchToTest">
-    <configuration name="SwitchToTest" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SwitchToTest" />
+
       <module name="selenium-homework" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WaitTests" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="WaitTests" />
-      <module name="selenium-homework" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="WebFormsTest" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="WebFormsTest" />
+
       <module name="selenium-homework" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -162,15 +147,12 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.SwitchToTest" />
       <item itemvalue="Application.WaitTests" />
-      <item itemvalue="Application.WebFormsTest" />
       <item itemvalue="Maven.WebFormsTest" />
       <item itemvalue="TestNG.SwitchToTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.WebFormsTest" />
         <item itemvalue="Application.WaitTests" />
       </list>
     </recent_temporary>
